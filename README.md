@@ -1,7 +1,7 @@
-Cookiecutter_DataScience
+Data Science Retreat Batch 30
 ==============================
 
-Template for data science projects.
+A collection of methods, notebooks and examples teached in the courses.
 
 Project Organization
 ------------
